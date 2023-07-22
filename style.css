@@ -90,11 +90,11 @@ body {
     z-index: 1;
     color: white;
     text-align: center;
-    gap: 130px;
+    gap: 100px;
 }
 
 .about .text_details .text_top {
-    padding-top: 50px;
+    padding-top: 70px;
     width: 25%;
     letter-spacing: .2rem;
     font-size: .9rem;
@@ -103,6 +103,10 @@ body {
 }
 .about .text_details .text_top ul{
     list-style-type: none;
+}
+.about .text_details .text_top ul li{
+    text-align: center;
+    padding-bottom: 8px;
 }
 .about .text_details .text_center {
     padding-top: 50px;
@@ -118,11 +122,13 @@ body {
 }
 .about .text_details .text_center ul li{
     text-align: center;
+    padding-bottom: 15px;
 }
 
 .about .text_details .text_center ul .text_abhaya {
-    font-family: 'Abhaya+Libre';
-    font-size: 1rem;
+    font-family: 'AbhayaLibre' ;
+    font-size: 1.4rem;
+    font-weight: 800;
 }
 
 .about .text_details .text_bottom {
@@ -138,7 +144,7 @@ body {
 }
 
 .about .text_details .text_bottom ul .text_abhaya2 {
-    font-family: 'Abhaya+Libre';
+    font-family: 'AbhayaLibre';
     font-size: 1rem;
 }
 
