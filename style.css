@@ -19,12 +19,12 @@ body {
 .home .logo{
     position: absolute;
     left: 15px;
-    top: -9px;
+    top: -14px;
 }
 
 .home .logo img {
-    width: 100px;
-    height: 90px;
+    width: 140px;
+    height: 105px;
 }
 
 .home .title_text {
